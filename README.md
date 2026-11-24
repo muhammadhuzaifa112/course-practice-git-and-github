@@ -1,4 +1,4 @@
 # course-practice-git-and-github
-## DEMO REPO
+# DEMO REPO
 
-# GIT & GITHUB
+## GIT & GITHUB
